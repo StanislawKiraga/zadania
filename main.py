@@ -8,4 +8,5 @@ for shop, products in shopping_list.items():
 sum = 0
 for value in shopping_list.values():
     sum += len(value)
-print(f'W sumie kupuję {sum} produktów.')     
+print(f'W sumie kupuję {sum} produktów.')
+print('Zmiana kodu')
