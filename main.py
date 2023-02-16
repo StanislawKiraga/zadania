@@ -11,3 +11,4 @@ for value in shopping_list.values():
 print(f'W sumie kupuję {sum} produktów.')
 
 print('Zmiana kodu')
+print('Dodaję commit')
