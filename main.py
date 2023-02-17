@@ -12,3 +12,5 @@ print(f'W sumie kupuję {sum} produktów.')
 
 print('Zmiana kodu')
 print('Dodaję commit')
+
+#qweiuasabsfkuasifjkban
